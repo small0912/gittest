@@ -5,6 +5,7 @@ public class HelloEclipse {
 	private String aa;
 	private String bb;
 	private String ee;
+	private String dd;
 	
 	
 	
